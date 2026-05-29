@@ -25,6 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src="https://github.com/IsaacThomas245/web102_prework/blob/de6dc1ea906694ef18744649094b806e10c89639/assets/walkthrough.gif?raw=true" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+GIF Link: https://i.imgur.com/wOejKKh.gif
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with Kap
